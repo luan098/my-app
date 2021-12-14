@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Getting Started With This React Project Base
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can clone this project and use to create a typescript react app.
+
+* Features from this version:
+- eslint
+- prettier
+
+
+**Note: This project have basic configuration files inside, feel free to change add your preferences**
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
 ## Available Scripts
 
@@ -13,6 +21,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+### `yarn format`
+
+Format project files based on project configs\
 
 ### `yarn test`
 
