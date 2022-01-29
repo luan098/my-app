@@ -13,7 +13,7 @@ You can clone this project and use to create a typescript react app.
 - full typescript
 
 
-- **Note: This project have basic configuration files inside, feel free to change add, your preferences**
+- **Note: This project have basic configuration files inside, feel free to change, add your preferences**
 - **This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
 ## Available Scripts
