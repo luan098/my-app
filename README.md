@@ -5,6 +5,9 @@ You can clone this project and use to create a typescript react app.
 * Features from this version:
 - eslint
 - prettier
+- sample react router concept
+- basic preloader component
+- full typescript
 
 
 **Note: This project have basic configuration files inside, feel free to change add your preferences**
